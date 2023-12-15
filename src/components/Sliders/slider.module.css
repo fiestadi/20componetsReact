@@ -1,0 +1,22 @@
+
+img {
+   width:50%;
+  height:50%;
+   margin-bottom: 40px;
+
+ }
+ 
+ p {
+  position: absolute;
+  top: 30%;
+  left: 620px; 
+  transform: translateY(-20%);
+  z-index: 1;
+
+   font-style: italic;
+   font-size: 18px;
+   color: #c01010;
+ }
+ .text-container {
+  font-size: 18px;
+}
